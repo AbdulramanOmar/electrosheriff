@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/electrosheriff/static/css/main.f8af65b8.css",
+    "main.js": "/electrosheriff/static/js/main.dc40e8bd.js",
+    "static/media/about.png": "/electrosheriff/static/media/about.81056fde4582a4600f9f.png",
+    "static/media/مدى.png": "/electrosheriff/static/media/مدى.41ff0ce366060af53baa.png",
+    "static/media/crefttive.jpg": "/electrosheriff/static/media/crefttive.823008398f32a91ffb34.jpg",
+    "static/media/slider (2).jpg": "/electrosheriff/static/media/slider (2).928c2c74d223d1dede65.jpg",
+    "static/media/slider (3).jpg": "/electrosheriff/static/media/slider (3).aab591c11a85a7a52f5d.jpg",
+    "static/media/slider (1).jpg": "/electrosheriff/static/media/slider (1).8e08d3f0726300def8c7.jpg",
+    "static/media/pro (2).webp": "/electrosheriff/static/media/pro (2).ca8e1063b11dee901014.webp",
+    "static/media/pro (6).webp": "/electrosheriff/static/media/pro (6).2136beb56373a1e90cb4.webp",
+    "static/media/pro (1).webp": "/electrosheriff/static/media/pro (1).941a2f100f756e59d0c8.webp",
+    "static/media/visa.png": "/electrosheriff/static/media/visa.c8cc67c19a112ad93966.png",
+    "static/media/shopping-cart.png": "/electrosheriff/static/media/shopping-cart.96c73cb49987ccdf1154.png",
+    "index.html": "/electrosheriff/index.html",
+    "main.f8af65b8.css.map": "/electrosheriff/static/css/main.f8af65b8.css.map",
+    "main.dc40e8bd.js.map": "/electrosheriff/static/js/main.dc40e8bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8af65b8.css",
+    "static/js/main.dc40e8bd.js"
+  ]
+}
